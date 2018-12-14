@@ -24,14 +24,14 @@ The repository consists of 5 applications as per the assignment questions in ord
     4.	Proper validation / info messages thrown on console.
     5.	Student Info, course info, serialization code and command line menu code encapsulated in separate independent java classes.
     6.	Comments in the code to make it more understandable.
-    7.	TDD methodology has been follwed using JUnit Testing.
+    7.	TDD methodology has been followed using JUnit Testing.
     
   # Family Tree Application
     1.  Use of Java’s collection framework  (HashMaps and Lists) to implement directed acyclic graph for Family Tree.
     2.  Proper validation / info messages thrown on console.
     3.  Appropriate exception handling where ever required.
     4.  Comments in the code to make it more understandable.
-    5.  TDD methodology has been follwed using JUnit Testing.
+    5.  TDD methodology has been followed using JUnit Testing.
 
   # Multithreading Application (Please setup database before running this app)
     1.  Use Java’s multithreading support for implementation.
@@ -39,7 +39,7 @@ The repository consists of 5 applications as per the assignment questions in ord
     3.	Coding conventions.
     4.	Proper validation / info messages thrown on console.
     5.	Comments in the code to make it more understandable.
-    6.	TDD methodology has been follwed using JUnit Testing.
+    6.	TDD methodology has been followed using JUnit Testing.
     
   # Contacts-android Application
     1.  Use of SQLite database to persist the contact list.
