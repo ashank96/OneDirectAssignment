@@ -29,7 +29,7 @@ The repository consists of 5 assignments-
   # Family Tree Application
     1.  Use of Java’s collection framework  (HashMaps and Lists) to implement directed acyclic graph for Family Tree.
     2.  Proper validation / info messages thrown on console.
-    3.  Do appropriate exception handling where ever required.
+    3.  Appropriate exception handling where ever required.
     4.  Comments in the code to make it more understandable.
     5.  TDD methodology has been used
 
@@ -45,8 +45,8 @@ The repository consists of 5 assignments-
     1.  Use of SQLite database to persist the contact list
     2.  Rx Java Implementation in database operations
     3.	App supports multiple orientation
-    4.	Swipe over cell to *Delete* the record and then undo from the pop up if required
-    5.	MVP design pattern have been used
+    4.	Swipe over cell to Delete the record and then undo from the pop up if required
+    5.	MVP design pattern has been used
     6.	Condutor library for screen implementations
 
     
