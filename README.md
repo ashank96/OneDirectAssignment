@@ -1,6 +1,6 @@
 # OneDirectAssignmentForMobileDeveloper
 
-The repository consists of 5 assignments-
+The repository consists of 5 applications as per the assignment questions in order-
   1. Inventory Control Application
   2. Student Details Application
   3. Family Tree Application
