@@ -9,14 +9,13 @@ The repository consists of 5 assignments-
   
   
   # Inventory Control Application
-  1.	Java’s I/O capabilities to accept input from users.
-  2.	Java’s String functionalities to parse input strings.
-  3.	Coding conventions.
-  4.	Proper validation / info messages thrown on console.
-  5.	Appropriate exception handling where ever required.
-  6.	Comments in the code to make it more understandable.
-  7.	TDD methodology has been used
-  
+    1.	Java’s I/O capabilities to accept input from users.
+    2.	Java’s String functionalities to parse input strings.
+    3.	Coding conventions.
+    4.	Proper validation / info messages thrown on console.
+    5.	Appropriate exception handling where ever required.
+    6.	Comments in the code to make it more understandable.
+    7.	TDD methodology has been used
   
   # Student Details Application
     1.	Use of Java’s serialization mechanism to save user details to disk.
@@ -42,8 +41,6 @@ The repository consists of 5 assignments-
     5.	Comments in the code to make it more understandable.
     6.	TDD methodology has been used
     
-    
-   
   # Contacts-android Application
     1.  Use of SQLite database to persist the contact list
     2.  Rx Java Implementation in database operations
